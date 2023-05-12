@@ -1,15 +1,15 @@
 ﻿[
   {
     "id":1,
-    "project": "Website",
+    "project": "Simple Portfolio Website",
     "type": "software",
-    "tools": [ "Javascript", "HTML", "CSS", "Node", "EJS", "ExpressJS" ],
+    "tools": [ "HTML", "JavaScript", "Particle.js", "JQuery (CDN)", "Tailwind (CDN)", "Font-Awesome (CDN)", "Vue.js (CDN)", "tilt.js (CDN)", "modaal.js (CDN)", "confetti.js", "JSON" ],
     "deployment": {
       "accessUrl": "http://www.philanimbeje.co.za",
       "hostPlatform": "Heroku"
     },
-    "projectUrl": "https://github.com/philanimbeje/ServerProject",
-    "description": "Personal website using ExpressJS and EJS (embedded Javascript)",
+    "projectUrl": "https://github.com/philanimbeje/SimplePortfolioWebsite",
+    "description": "A simple portfolio project",
     "imageUrl": "https://wallpaperaccess.com/full/2272665.jpg",
     "symbol": "fa-user"
   },

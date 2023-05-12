@@ -1,5 +1,4 @@
 import {} from 'font-awesome'
-import {} from 'jquery'
 import {} from 'particles'
 
 

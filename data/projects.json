@@ -1,0 +1,125 @@
+﻿[
+  {
+    "id":1,
+    "project": "Website",
+    "type": "software",
+    "tools": [ "Javascript", "HTML", "CSS", "Node", "EJS", "ExpressJS" ],
+    "deployment": {
+      "accessUrl": "http://www.philanimbeje.co.za",
+      "hostPlatform": "Heroku"
+    },
+    "projectUrl": "https://github.com/philanimbeje/ServerProject",
+    "description": "Personal website using ExpressJS and EJS (embedded Javascript)",
+    "imageUrl": "https://wallpaperaccess.com/full/2272665.jpg",
+    "symbol": "fa-user"
+  },
+  {
+    "id":2,
+    "project": "Orange ToDo App",
+    "type": "software",
+    "tools": [ "HTML", "CSS", "EJS", "ExpressJS", "Javascript", "Node" ],
+    "deployment": {
+      "accessUrl": "https://orangetodoapp.herokuapp.com/",
+      "hostPlatform": "Heroku"
+    },
+    "projectUrl": "https://github.com/philanimbeje/simpleToDo",
+    "description": "A simple node Todo application using browser localStorage for persistence",
+    "imageUrl": "https://wallpaperaccess.com/full/4794791.jpg",
+    "symbol": "fa-clipboard-check"
+  },
+  {
+    "id":3,
+    "project": "Red ToDo App",
+    "type": "software",
+    "tools": [ "HTML", "CSS", ".Net6 MVC", "Razor", "EntityFrameworkCore", "Sqlite", "jQuery Datatables" ],
+    "deployment": {
+      "accessUrl": "",
+      "hostPlatform": ""
+    },
+    "projectUrl": "https://github.com/philanimbeje/RedToDo",
+    "description": "A simple .net6 Todo application using sqlite for persistence",
+    "imageUrl": "https://wallpaperaccess.com/full/13272.jpg",
+    "symbol": "fa-check-double"
+  },
+  {
+    "id":4,
+    "project": "Clean Template",
+    "type": "software",
+    "tools": [
+      "C#",
+      "Dependancy Injection",
+      "MediatR",
+      "EntityFrameworkCore",
+      "AutoMapper",
+      "FluentValidation",
+      "Swashbuckle(Swagger)",
+      "Moq",
+      "Shouldly",
+      "XUnit"
+    ],
+    "deployment": {
+      "accessUrl": "",
+      "hostPlatform": ""
+    },
+    "projectUrl": "https://github.com/philanimbeje/Template",
+    "description": "Code used to create a Clean Architecture template for Visual Studio",
+    "imageUrl": "https://wallpaperaccess.com/full/4794764.jpg",
+    "symbol": "fa-dot-circle"
+  },
+  {
+    "id":5,
+    "project": "BasicMathFunction",
+    "type": "software",
+    "tools": [ "C#", "NuGet" ],
+    "deployment": {
+      "accessUrl": "https://www.nuget.org/packages/BasicMathFunctions/",
+      "hostPlatform": "NuGet Package Manager"
+    },
+    "projectUrl": "https://github.com/philanimbeje/BasicMathFunction",
+    "description": "A simple calculation library",
+    "imageUrl": "https://wallpaperaccess.com/full/1664717.jpg",
+    "symbol": "fa-equals"
+  },
+  {
+    "id":6,
+    "project": "CouchBaseConnector",
+    "type": "software",
+    "tools": [ "C#", "NuGet", "CouchBase .NET SDK" ],
+    "deployment": {
+      "accessUrl": "https://www.nuget.org/packages/CouchBaseConnector/",
+      "hostPlatform": "NuGet Package Manager"
+    },
+    "projectUrl": "https://github.com/philanimbeje/CouchBaseConnector",
+    "description": "A CRUD library for couchBaseDb",
+    "imageUrl": "https://wallpaperaccess.com/full/4794884.jpg",
+    "symbol": "fa-couch"
+  },
+  {
+    "id":7,
+    "project": "API client application",
+    "type": "software",
+    "tools": [ "Typescript", "Angular", "Angular Material", "API client" ],
+    "deployment": {
+      "accessUrl": "https://tvshowappnogal.herokuapp.com/",
+      "hostPlatform": "Heroku"
+    },
+    "projectUrl": "https://github.com/philanimbeje/tvshowapp",
+    "description": "a TV search app using the TVMaze API",
+    "imageUrl": "https://images8.alphacoders.com/369/thumb-1920-369984.jpg",
+    "symbol": "fa-tv"
+  },
+  {
+    "id":8,
+    "project": "cloud API application",
+    "type": "software",
+    "tools": [ "c#", "CQRS", ".netcore", "cloud API", "EntityFrameworkCore", "ClearDb" ],
+    "deployment": {
+      "accessUrl": "https://philanisinfoapi.herokuapp.com/api/",
+      "hostPlatform": "Heroku"
+    },
+    "projectUrl": "https://github.com/philanimbeje/tvshowproject",
+    "description": "fully hosted app using the TVMaze API",
+    "imageUrl": "https://wallpaperaccess.com/full/4239720.jpg",
+    "symbol": "fa-signal"
+  }
+]

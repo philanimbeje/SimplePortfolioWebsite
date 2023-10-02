@@ -110,15 +110,15 @@
   },
   {
     "id":8,
-    "project": "cloud API application",
+    "project": "CRUD API Application",
     "type": "software",
-    "tools": [ "c#", "CQRS", ".netcore", "cloud API", "EntityFrameworkCore", "ClearDb" ],
+    "tools": [ "c#", "CQRS", ".netcore", "cloud", "EntityFrameworkCore", "ClearDb" ],
     "deployment": {
-      "accessUrl": "https://philanisinfoapi.herokuapp.com/api/",
-      "hostPlatform": "Heroku"
+      "accessUrl": "https://philanistvshowapi.azurewebsites.net/swagger/",
+      "hostPlatform": "Microsoft Azure"
     },
     "projectUrl": "https://github.com/philanimbeje/tvshowproject",
-    "description": "fully hosted app using the TVMaze API",
+    "description": "CRUD API application using clean coding techniques",
     "imageUrl": "https://wallpaperaccess.com/full/4239720.jpg",
     "symbol": "fa-signal"
   }

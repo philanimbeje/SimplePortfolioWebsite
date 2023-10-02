@@ -100,8 +100,8 @@
     "type": "software",
     "tools": [ "Typescript", "Angular", "Angular Material", "API client" ],
     "deployment": {
-      "accessUrl": "https://tvshowappnogal.herokuapp.com/",
-      "hostPlatform": "Heroku"
+      "accessUrl": "https://red-sea-0f1f48f10.3.azurestaticapps.net",
+      "hostPlatform": "Microsoft Azure"
     },
     "projectUrl": "https://github.com/philanimbeje/tvshowapp",
     "description": "a TV search app using the TVMaze API",

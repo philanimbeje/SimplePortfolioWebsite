@@ -20,6 +20,7 @@ window.onload = function() {
             <br>
             <a class="cursor-pointer" target="_blank" v-bind:href="project.projectUrl"><i class="fa-brands fa-github px-1 hover:scale-150 duration-300"></i></a>  
             <a :href="'#modal'+project.id" :class="'modal'+project.id"><i class="fa-solid fa-screwdriver-wrench px-1 hover:scale-150 duration-300 cursor-pointer"></i></a>
+            <a v-if="project.deployment.accessUrl" class="cursor-pointer" target="_blank" v-bind:href="project.deployment.accessUrl"><i class="fa-solid fa-cloud px-1 hover:scale-150 duration-300"></i></a>  
             <div :id="'modal'+project.id" style="display:none;">
             <p>{{project.project}}</p>
             <hr><br>
